@@ -119,10 +119,15 @@ module.exports = {
     ],
     'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
+    'react/require-default-props': 'off',
+    'react/default-props-match-prop-types': 'off',
 
     // react hooks
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'error',
+
+    // jsx-a11y
+    'jsx-a11y/accessible-emoji': 'off',
 
     // import
     'import/extensions': [
