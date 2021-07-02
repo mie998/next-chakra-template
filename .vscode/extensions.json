@@ -6,7 +6,6 @@
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "stylelint.vscode-stylelint",
     "hex-ci.stylelint-plus",
     "vscode-icons-team.vscode-icons",
     "jpoissonnier.vscode-styled-components",
