@@ -121,6 +121,7 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/require-default-props': 'off',
     'react/default-props-match-prop-types': 'off',
+    'react/display-name': 'off',
 
     // react hooks
     'react-hooks/rules-of-hooks': 'error',
