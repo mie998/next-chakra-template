@@ -1,9 +1,16 @@
 import { Box } from '@chakra-ui/react';
+import { css } from '@emotion/react';
 import { DarkModeSwitch } from 'components/DarkModeSwitch';
 
 const Index = () => (
   <Box>
-    Page working!
+    <div
+      css={css`
+        text-align: center;
+      `}
+    >
+      Page working!
+    </div>
     <DarkModeSwitch />
   </Box>
 );
